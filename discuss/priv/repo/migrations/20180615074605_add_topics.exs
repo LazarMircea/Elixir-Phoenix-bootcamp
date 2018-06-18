@@ -5,5 +5,5 @@ defmodule Discuss.Repo.Migrations.AddTopics do
     create table(:topics) do
       add :title, :string
     end
-end
+  end
 end

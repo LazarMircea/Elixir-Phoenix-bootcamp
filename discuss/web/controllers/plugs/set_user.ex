@@ -6,7 +6,6 @@ defmodule Discuss.Plugs.SetUser do
   alias Discuss.User
 
   def init(_params) do
-
   end
 
   def call(conn, _params) do

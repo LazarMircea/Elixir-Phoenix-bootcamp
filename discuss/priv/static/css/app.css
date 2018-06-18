@@ -103,5 +103,9 @@ body, form, ul, table {
   margin-top: 25px;
 }
 
+a{
+  padding-left: 5px;
+}
+
 
 /*# sourceMappingURL=app.css.map*/

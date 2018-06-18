@@ -9,6 +9,7 @@
                         'Elixir.Discuss.ErrorHelpers',
                         'Elixir.Discuss.ErrorView','Elixir.Discuss.Gettext',
                         'Elixir.Discuss.LayoutView',
+                        'Elixir.Discuss.Plugs.RequireAuth',
                         'Elixir.Discuss.Plugs.SetUser','Elixir.Discuss.Repo',
                         'Elixir.Discuss.Router',
                         'Elixir.Discuss.Router.Helpers',
